@@ -5,7 +5,7 @@ GET UNLIMITED WARP+ DATA
 Main Source credit goes to https://github.com/ALIILAPRO
 
 ## STEPS :
-1. If it is not installed on your device, download it here. Termux
+1. Install Termux, If it is not installed on your device.
 2. Open Termux app
 3. Enter : git pkg install git
 4. Enter : pkg install python
