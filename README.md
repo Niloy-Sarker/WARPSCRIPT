@@ -1,6 +1,6 @@
 # WARPSCRIPT
 GET UNLIMITED WARP+ DATA
-Main Source credit goes to github.com/ALIILAPRO
+Main Source credit goes to https://github.com/ALIILAPRO
 
 ## STEPS :
 1. If it is not installed on your device, download it here. Termux
